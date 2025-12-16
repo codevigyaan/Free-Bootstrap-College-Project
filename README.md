@@ -2,7 +2,8 @@
 
 <img width="1654" height="803" alt="Screenshot 2025-12-16 114919" src="https://github.com/user-attachments/assets/56625936-cb3d-487b-89c0-bc73c386a929" />
 
-Introduction
+**Introduction**
+
 The PORTFOLIO – Bootstrap Template is a sleek, fully responsive frontend website template designed for personal or professional portfolios. This free project showcases skills, projects, experiences, and contact information in a visually appealing manner, making it perfect for freelancers, designers, developers, artists, or anyone building an online presence. Built with client-side technologies only, it features multiple sections like hero, about, skills, projects, testimonials, and contact, without needing any backend.
 
 Offered by CodeVigyaan as a free resource, this template is available for download on the platform, allowing anyone to use, modify, and deploy it at no cost. It’s particularly valuable for educational purposes: students can use it for college assignments, freshers for portfolio building, and learners for studying responsive web design. The template emphasizes clean code, modern aesthetics, and ease of customization.
